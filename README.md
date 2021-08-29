@@ -1,2 +1,2 @@
 # tic-tak-toi
-in this game user can play with computer 
+Console Based Tic Tack Toi Game
