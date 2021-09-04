@@ -1,2 +1,2 @@
-# tic-tak-toi
-Console Based Tic Tack Toi Game
+#  Tic Tac Toe
+Console Based  Tic Tac Toe Game
